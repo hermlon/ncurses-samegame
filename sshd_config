@@ -1,0 +1,4 @@
+Port 2222
+AllowUsers samegame
+PasswordAuthentication yes
+PermitEmptyPasswords yes
